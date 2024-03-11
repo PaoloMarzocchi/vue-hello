@@ -10,7 +10,8 @@ const { createApp } = Vue
   createApp({
     data() {
       return {
-        title: 'Sto usando Vue.js!!'
+        title: 'Sto usando Vue.js!!',
+        imageUrl: './assets/img/awesome-vue.png'
       }
     }
   }).mount('#app')

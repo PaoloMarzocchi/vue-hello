@@ -1,4 +1,14 @@
+body{
+    background-color: rgba(0, 0, 0, 0.829);
+}
+
 h1{
+    color: white;
     margin-top: 2rem;
     text-align: center;
+}
+
+#image{
+    width: fit-content;
+    margin: 0 auto;
 }
